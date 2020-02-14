@@ -1,11 +1,12 @@
 # Site wide configuration
+remote_theme : mmistakes /jekyll-theme-skinny-bones
 
 title: "My Site"
 description: "This is a description of my awesome site."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url:"https://muuky.github.io"
 feed:
   path: atom.xml
 
