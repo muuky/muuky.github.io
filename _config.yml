@@ -1,5 +1,5 @@
 # Site Settings
-baseurl: ""
+baseurl: "muuky.github.io"
 url : ""
 
 # Blog Settings
@@ -9,9 +9,9 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/profile.png
     username : Muuky
-    description : 항공우주공학 전공, 아마추어 python 개발자, 아마추어 서버 운용
+    description : 취미 python 개발자, 취미 서버 운용
     experience :
       - start : 2016-12
         end : 2020-02
@@ -25,8 +25,6 @@ theme_settings :
     skills : 
       - skill : Python
         value : 75  # Percent value
-      - skill : Data Fusion
-        value : 80
       - skill : AI
         value : 20
       - skill : git
@@ -34,7 +32,7 @@ theme_settings :
         
   # Icons
   icons :
-    email: mukyeom@gmail.com # Full email address, e.g. "sample@google.com"
+    email: muuuky0@gmail.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
     github: 
     gitlab: 
