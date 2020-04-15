@@ -1,6 +1,6 @@
 # Site Settings
-baseurl: "muuky.github.io"
-url : ""
+baseurl: ""
+url : "muuky.github.io"
 
 # Blog Settings
 theme_settings :
