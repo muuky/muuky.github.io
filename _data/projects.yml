@@ -1,0 +1,41 @@
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : "portfolio.png" # path: assets/project/
+    date : 2020.03.10 - Developing
+    title : Bear app을 활용한 블로그 구축
+    summary : 개인 정리용 블로그 구축
+    description : jekyll 테마를 활용하여 나만의 블로그를 개인 서버에 호스팅
+    contents :
+        - title : 1. Raspberry pi 활용하여 git 서버 구축
+          image : rsbp_git.jpg
+          description : <li>폴더 구조의 이해</li>
+            <li>권한의 이해</li>
+            <li>git 명령어 습득</li> 
+            <li>ssh 키 습득</li>
+            <li>git push 방법 습득</li> 
+        - title : 2. ruby gem의 작동 방식 이해
+          image : ruby.png
+          description : <li>gem의 이해</li> 
+            <li>bundle exec의 작동방식의 이해</li> 
+        - title : 3. nginx의 이해
+          image : nginx.png
+          description : <li>nginx 호스팅 방법 이해</li> 
+            <li>custom port와 기본 root 지정방법</li>
+            <li>정적 파일 확장자가 생략된 경우 자동 리라우팅</li>
+        - title : 4. Bear app으로부터 블로그 자동 포스팅 기능 구현
+          image : bear_python.jpg
+          description : <li>python 활용</li>
+            <li>bearnote 포맷을 md로 변환</li>
+            <li>asset 자동 정렬</li>
+
+- project :
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2019.06.09 - Developing
+    title : Dummy project
+    summary : This is Dummy
+    description :  
